@@ -7,4 +7,4 @@ Dropdown menu or radio button for the user to choose if they are inputting in Ce
 Display area for the final converted temperature and unit
 For an extra challenge: You can add in a third conversion option to convert from and to Kelvin as well.
 
-#### As Web Development and Design Internd=ship TASK 3 OF LEVEL 1
+#### As Web Development and Design Internship TASK 3 OF LEVEL 1
